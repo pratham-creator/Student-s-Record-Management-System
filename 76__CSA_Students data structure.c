@@ -1,6 +1,3 @@
-// Name :  Pratham Pandurang Ghule
-// Roll No. :  76   Div. : CS_A     Batch : 02
-
 // Title : Menu Driven program to add, modify, display and delete data related to student base on 'c' Structure.
 // Description : This program basically contains a a user defined data type i.e. structure related to student data. Here we performing
 // operations like add, modify, display and delete data using that student's structure.
